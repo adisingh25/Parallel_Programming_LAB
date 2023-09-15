@@ -9,6 +9,8 @@ time ./<executable_name>
 
 eg:- 
 ....to compile
+
 gcc -fopenmp test test.c                            
 ....to run the executable  
+
 time ./test                                   
