@@ -18,3 +18,22 @@ gcc -fopenmp test test.c
 ```
 time ./test
 ```
+
+## MPI 
+commands to execute 
+```
+mpicc <file_name>.c -o <executable_name>
+```
+
+```
+mpirun -n <number_of_processes> <executable_name>
+```
+Example 
+- To compile
+```
+mpicc test.c -o test
+```
+- To run the executable  
+```
+mpirun -n 2 test
+```
