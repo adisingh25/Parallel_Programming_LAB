@@ -1,4 +1,4 @@
-# Pratice_PP_LAB
+# Parallel_Programming_LAB
 
 ## OPEN MP
 commands to execute 
