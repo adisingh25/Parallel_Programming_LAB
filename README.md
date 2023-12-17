@@ -12,7 +12,7 @@ time ./<executable_name>
 Example 
 - To compile
 ```
-gcc -fopenmp test test.c   
+gcc -fopenmp -o test test.c   
 ```
 - To run the executable  
 ```
